@@ -1,1 +1,1 @@
-# qa-guru-python-25-lesson-2
+# 2. Git. Github. Погружаемся. Дмитрий Тучс
